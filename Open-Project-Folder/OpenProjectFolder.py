@@ -2,6 +2,7 @@ import bpy
 import subprocess
 import sys
 
+
 bl_info = {
     "name": "Open Project Folder - Hotkey",
     "author": "Will Hemsworth",
